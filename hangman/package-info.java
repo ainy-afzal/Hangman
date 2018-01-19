@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author Ainy
+ *
+ */
+package hangman;
